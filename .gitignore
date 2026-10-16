@@ -1,0 +1,6 @@
+node_modules/
+__pycache__/
+*.pyc
+/project/alphatab/
+/assets/source-score-pages-02-03.png
+/assets/source-score-pages-04-05.png

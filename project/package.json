@@ -1,0 +1,8 @@
+{
+  "name": "astra4transcript-initial-tools",
+  "private": true,
+  "type": "module",
+  "description": "Historical initial-transcription utilities, separate from the reviewed Guitar Pro file",
+  "dependencies": { "@coderline/alphatab": "1.8.4" },
+  "scripts": { "prepare-library": "node setup-alphatab.mjs" }
+}

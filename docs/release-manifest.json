@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-17",
+  "primaryScore": {
+    "path": "scores/依存症_全曲_原谱结构_核对v1.gp",
+    "sha256": "87a45d5e41dbd669695c4a141c69d5b61a2cadf9f5ea7b0c5971ec6637a2532c",
+    "bytes": 128837,
+    "sourceFilePreservedByteForByte": true,
+    "sourceMeasureCount": 116,
+    "trackNames": [
+      "Vo.",
+      "Gt.-I",
+      "Gt.-II",
+      "Kb. (E.P. / Pf.)",
+      "Ba.",
+      "Dr.-I",
+      "Gt.-III",
+      "Dr.-II",
+      "Tambourine"
+    ]
+  },
+  "previews": {
+    "source": "PDF pages rendered directly with Poppler, paired 2-3 and 4-5",
+    "gp": "Rendered from review v1 with alphaTab 1.8.4, 8 measures per preview page, paired 1-2 and 3-4",
+    "displayAdjustments": "Long annotations shortened for preview; native undefined-string notes resolved using stored MIDI values in a temporary rendering copy only. The downloadable GP file is unchanged."
+  },
+  "validationScope": "Container integrity, score metadata, exact binary copy and presentation checks; not a new note-by-note certification. Historical reports are separate.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 126,
+      "sha256": "69ad613d9f86617c355c196d2cf0d5110ec6312b8961ac936e2d29059d91d4c3"
+    },
+    {
+      "path": "assets/gp-score-overview-pages-01-02.png",
+      "bytes": 605849,
+      "sha256": "3c84b48d7e78c0655dc5715c9ad3d215ca8399e687a1d7c15ed538806dcbd5ce"
+    },
+    {
+      "path": "assets/gp-score-overview-pages-03-04.png",
+      "bytes": 796019,
+      "sha256": "2ee00c350b383c012277a31873b4ee732a8a5243cc8ba4739628bf4fab9402d1"
+    },
+    {
+      "path": "assets/source-pdf-screenshot-pages-02-03.png",
+      "bytes": 3221003,
+      "sha256": "169236a053dd95378782765a02ee050b0121743c6ee1321fbeeb7cf973f2f2ca"
+    },
+    {
+      "path": "assets/source-pdf-screenshot-pages-04-05.png",
+      "bytes": 6062573,
+      "sha256": "d7a49031b364eb226cca85bc69fd8335e0c4b87d7cb5cb237af01871518a60a9"
+    },
+    {
+      "path": "docs/initial-transcription/依存症_小节核验报告.json",
+      "bytes": 33762,
+      "sha256": "7cc908c5aa7e5b76489eba63bdb966e642f84c9fdee17fba22c416241ad66550"
+    },
+    {
+      "path": "docs/initial-transcription/依存症_待核对清单.txt",
+      "bytes": 32328,
+      "sha256": "ce29f01e1a14f32a9a06ea92fb5dbb7c7740cf0b78e5622353ee2520a9500810"
+    },
+    {
+      "path": "docs/initial-transcription/依存症_转录说明.txt",
+      "bytes": 3507,
+      "sha256": "3741942420f3c843edb5d5006a9a6efa1bafe619fe089b03f0abfb67617289b5"
+    },
+    {
+      "path": "project/export_score_v6.mjs",
+      "bytes": 11166,
+      "sha256": "e2fa3f74ccc71eec92b58e4a4338b267a8be969c6985d55f482a8c75d7b2e531"
+    },
+    {
+      "path": "project/package.json",
+      "bytes": 310,
+      "sha256": "854d1a03d72945804f49b128279e9842c69ab835556a1d40fa7f023544c78b91"
+    },
+    {
+      "path": "project/prepare_score.py",
+      "bytes": 3430,
+      "sha256": "9a3f1a89076c16a157b57ad02787a7859eff78ed66656356e6af6c54f9696089"
+    },
+    {
+      "path": "project/README.md",
+      "bytes": 1828,
+      "sha256": "c2acbfd88a015aa2da686ab0e15d987c4b85bebe7e4e63d176883ef6d7ae35a6"
+    },
+    {
+      "path": "project/score_data.py",
+      "bytes": 5625,
+      "sha256": "516320efa68499e2c20c76266f9d85c7c5bf8d6d4d23ceb757eba4d5127f794e"
+    },
+    {
+      "path": "project/score_data_02.py",
+      "bytes": 7668,
+      "sha256": "78da481910e686c2ceb2d611eb66069b3235ddaf3794b9980fc280c656961e80"
+    },
+    {
+      "path": "project/score_data_03.py",
+      "bytes": 4709,
+      "sha256": "3fc5e0b9bb476231d3caa74265c728d0748df84ea977a8e6f23747882d7ccee8"
+    },
+    {
+      "path": "project/score_data_04.py",
+      "bytes": 8459,
+      "sha256": "a7d59e1915c7881865de273cad4a96f66518cfea8242dcba12a7a0e41a60f7e1"
+    },
+    {
+      "path": "project/score_data_05.py",
+      "bytes": 5389,
+      "sha256": "a8db9c38cb9a7bbe6cc0f4d7a5ac484cc2a73335d109747a5b75a50c4952840b"
+    },
+    {
+      "path": "project/score_data_06.py",
+      "bytes": 6961,
+      "sha256": "c8180a75deeea513fc7dcfc38bd91adee5d963a1a38dcc9cec5eef0bdc263af7"
+    },
+    {
+      "path": "project/score_data_07.py",
+      "bytes": 973,
+      "sha256": "42310d299708077fdb7693831a29f541687598375f8a64e64a1744c7e4d1e2d3"
+    },
+    {
+      "path": "project/score_data_08.py",
+      "bytes": 914,
+      "sha256": "966a334673839a28fdc9f4667c1974134ddfc6bc14f8d32582036ae1951e5c5a"
+    },
+    {
+      "path": "project/setup-alphatab.mjs",
+      "bytes": 517,
+      "sha256": "a83e400ddb7f8fb87068295350126af3c2f495eb42ba242c6dcac02bc8dc9935"
+    },
+    {
+      "path": "project/transcription_v1.json",
+      "bytes": 3227125,
+      "sha256": "9f0bbc68a1b85e0ceca3c41122aef6ef7b8cba9254306d84379dcf51a363859f"
+    },
+    {
+      "path": "project/依存症_Intro4小节_试转.gp",
+      "bytes": 22781,
+      "sha256": "fedc63549d80b93cbb34493b2d1c6e8b205d8fb97f06cd73f0fbf43ad9c09b0c"
+    },
+    {
+      "path": "README.en.md",
+      "bytes": 4182,
+      "sha256": "9157612023df52c3adbd30d2d025a968df7cc8fd3dcc7916337a7f1e3801d7f6"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3752,
+      "sha256": "7f0ae5dc1223984bce9b413bf6f417014a4ec2d335a786ae81b9d488415f844a"
+    },
+    {
+      "path": "scores/依存症_全曲_原谱结构_核对v1.gp",
+      "bytes": 128837,
+      "sha256": "87a45d5e41dbd669695c4a141c69d5b61a2cadf9f5ea7b0c5971ec6637a2532c"
+    }
+  ]
+}
