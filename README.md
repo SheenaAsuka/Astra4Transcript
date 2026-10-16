@@ -48,6 +48,8 @@
 
 ## 原谱预览
 
+[下载原谱 PDF：依存症-总谱.pdf](sources/依存症-总谱.pdf)
+
 以下图片直接渲染自原谱 PDF，每张并排显示两页，保留完整页边界和原有排版。
 
 ### PDF 第 2–3 页
@@ -79,6 +81,7 @@
 | 目录或文件 | 内容 |
 | --- | --- |
 | `scores/` | 当前发布的 Guitar Pro 工程 |
+| `sources/` | 转录依据的原谱 PDF |
 | `assets/` | 原谱截图与 GP 总谱预览 |
 | `project/` | 初版转录数据、Python 检查脚本、JavaScript 导出脚本及四小节模板 |
 | `docs/initial-transcription/` | 初版转录说明、待核对清单与内部检查报告 |

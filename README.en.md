@@ -48,6 +48,8 @@ The project retains the source score's Intro, sections A–G, D.S. / Coda naviga
 
 ## Source score previews
 
+[Download the source score PDF: 依存症-总谱.pdf](sources/依存症-总谱.pdf)
+
 The source previews are rendered directly from the PDF, with two complete pages side by side and the original layout and page boundaries preserved.
 
 ### PDF pages 2–3
@@ -77,6 +79,7 @@ Preview pagination is independent, and lengthy review annotations are shortened.
 | Directory or file | Content |
 | --- | --- |
 | `scores/` | Currently published Guitar Pro project |
+| `sources/` | Source score PDF used for the transcription |
 | `assets/` | Source score screenshots and GP score previews |
 | `project/` | Initial transcription data, Python checking scripts, JavaScript exporter and four-measure template |
 | `docs/initial-transcription/` | Initial transcription notes, review checklist and internal validation report |
