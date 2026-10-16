@@ -52,7 +52,11 @@ The source previews are rendered directly from the PDF, with two complete pages 
 
 ### PDF pages 2–3
 
+![Source PDF screenshots, pages 2–3](assets/source-pdf-screenshot-pages-02-03.png)
+
 ### PDF pages 4–5
+
+![Source PDF screenshots, pages 4–5](assets/source-pdf-screenshot-pages-04-05.png)
 
 ## Transcription previews
 
@@ -62,7 +66,11 @@ Preview pagination is independent, and lengthy review annotations are shortened.
 
 ### Preview pages 1–2: measures 1–16
 
+![GP score preview, pages 1–2: measures 1–16](assets/gp-score-overview-pages-01-02.png)
+
 ### Preview pages 3–4: measures 17–32
+
+![GP score preview, pages 3–4: measures 17–32](assets/gp-score-overview-pages-03-04.png)
 
 ## Repository structure
 

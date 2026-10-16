@@ -52,8 +52,12 @@
 
 ### PDF 第 2–3 页
 
+![原谱 PDF 第 2–3 页截图](assets/source-pdf-screenshot-pages-02-03.png)
+
 
 ### PDF 第 4–5 页
+
+![原谱 PDF 第 4–5 页截图](assets/source-pdf-screenshot-pages-04-05.png)
 
 
 ## 转录结果预览
@@ -64,7 +68,11 @@
 
 ### 预览第 1–2 页：小节 1–16
 
+![GP 总谱预览第 1–2 页：小节 1–16](assets/gp-score-overview-pages-01-02.png)
+
 ### 预览第 3–4 页：小节 17–32
+
+![GP 总谱预览第 3–4 页：小节 17–32](assets/gp-score-overview-pages-03-04.png)
 
 ## 仓库结构
 
