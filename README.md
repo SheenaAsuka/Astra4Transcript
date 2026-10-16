@@ -24,6 +24,14 @@
 1. [Live（下剋上エクスタシー）版](https://www.bilibili.com/video/BV1CPZpYQESX/)
 2. [MV版](https://www.bilibili.com/video/BV1bA411e71o)
 
+## 转录流程
+
+实际流程为：PDF → 提取图片与读谱 → Python / JSON 结构化记录 → JavaScript / alphaTab 导出 → Guitar Pro 编辑与核对。MusicXML 是可选交换格式，本项目未使用。
+
+![从 PDF 乐谱到可编辑 Guitar Pro 的转录流程与工具](assets/transcription-workflow.png)
+
+流程图为生成式示意插图，图中音符与界面用于解释步骤；具体转录结果见工程与下方预览。程序检查验证数据结构，音符及演奏细节仍需对照谱面复核。
+
 ## Guitar Pro 工程
 
 [下载总谱：原谱结构 · 核对 v1](scores/依存症_全曲_原谱结构_核对v1.gp)

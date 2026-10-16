@@ -142,13 +142,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 4673,
-      "sha256": "98cb3407de81b30601be1b690b84178e4a44554f8a2a43b9961ddece7863fd9d"
+      "bytes": 5341,
+      "sha256": "16eeaf3cbcc6b41a58735624df9ed98005d32bc3f3a72093e567306b09127140"
     },
     {
       "path": "README.md",
-      "bytes": 4033,
-      "sha256": "9ab7c348d8e11bf3334fed85aecfca6cfd8dec00341b1c8e0caf3455fa78ee44"
+      "bytes": 4562,
+      "sha256": "54cc25f03e58f5febfe631a6176c36bc92366229d37aa12d6dfa662de1bef9c2"
     },
     {
       "path": "scores/依存症_全曲_原谱结构_核对v1.gp",
@@ -159,6 +159,12 @@
       "path": "sources/依存症-总谱.pdf",
       "bytes": 14810138,
       "sha256": "91623f7e02a7365f0f3991d1006db1ebb4360aa7b4fc4784b92a8401e1bbc266"
+    },
+    {
+      "path": "assets/transcription-workflow.png",
+      "bytes": 1827337,
+      "sha256": "456fcf0e1c4f615d3c89164c97c1eda720501586a7324923ef886c87a898a8a6",
+      "kind": "AI-generated explanatory illustration; not a native software screenshot"
     }
   ]
 }

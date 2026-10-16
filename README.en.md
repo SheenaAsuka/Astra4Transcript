@@ -24,6 +24,14 @@ This is an unofficial transcription. Rights to the original composition and publ
 1. [Live — 下剋上エクスタシー (Gekokujou Ecstasy)](https://www.bilibili.com/video/BV1CPZpYQESX/)
 2. [Music video](https://www.bilibili.com/video/BV1bA411e71o)
 
+## Transcription workflow
+
+The actual workflow is: PDF → page images and score reading → structured Python / JSON records → JavaScript / alphaTab export → Guitar Pro editing and review. MusicXML is an optional interchange format and was not used in this project.
+
+![PDF-to-Guitar-Pro transcription workflow and tools, Chinese diagram](assets/transcription-workflow.png)
+
+This is an AI-generated process illustration; its notation and interface elements explain the steps. Refer to the project and previews for the actual transcription. Programmatic checks validate data structure; notes and performance details still require comparison with the source score.
+
 ## Guitar Pro project
 
 [Download the score: source structure · review v1](scores/依存症_全曲_原谱结构_核对v1.gp)
