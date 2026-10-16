@@ -1,70 +1,91 @@
-# Astra4Transcript · Izonshou (依存症)
+# Astra4Transcript
+
+A Guitar Pro transcription project for “Izonshou” (依存症), containing an editable full score, transcription data and supporting scripts, and previews of the source score and transcription.
 
 [中文](README.md) · [English](README.en.md)
 
-I'm a huge fan of **Sheena Ringo**. This project turns the band score for “Izonshou” into an editable Guitar Pro project to share with musician friends. I also hope it encourages more people to discover her music.
+## Work information
 
-If this showcase catches your interest, please listen to the original song and the full album, and support Sheena Ringo's official releases.
-
-## Original work and credits
-
-| Item | Credit |
+| Item | Information |
 | --- | --- |
-| Song | **依存症 / Izonshou — I Am an Addict** |
-| Artist, lyrics and composition | **椎名林檎 / Sheena Ringo** |
+| Song | 依存症 / Izonshou — I Am an Addict |
+| Artist | 椎名林檎 / Sheena Ringo |
+| Lyrics and composition | Sheena Ringo |
 | Original arrangement | Seiji Kameda and Sheena Ringo |
-| Album | **勝訴ストリップ / Shōso Strip**, track 13 |
+| Album | 勝訴ストリップ / Shōso Strip, track 13 |
 | Album release date | March 31, 2000 |
 
-Album and track details: [Universal Music's official album page](https://www.universal-music.co.jp/sheena-ringo/products/toct-24321/). Songwriting and arrangement credits: [Uta-Net](https://www.uta-net.com/song/12963/). Visit the [official Sheena Ringo / Tokyo Jihen website](https://www.kronekodow.com/) for her work.
+Sources: [Universal Music official album page](https://www.universal-music.co.jp/sheena-ringo/products/toct-24321/) and [Uta-Net song credits](https://www.uta-net.com/song/12963/).
 
-This is an **unofficial fan transcription showcase** made out of admiration for the artist. The original work is credited to its creators above. This project, its scripts and its descriptions do not imply official endorsement or authorization.
+This is an unofficial transcription. Rights to the original composition and published sheet music belong to their respective rights holders.
 
-## Open the score
+## Video links
 
-**[Download the Guitar Pro score · source structure · review v1](scores/依存症_全曲_原谱结构_核对v1.gp)**
+1. [Live — 下剋上エクスタシー (Gekokujou Ecstasy)](https://www.bilibili.com/video/BV1CPZpYQESX/)
+2. [Music video](https://www.bilibili.com/video/BV1bA411e71o)
 
-Open the `.gp` file in Guitar Pro 8 to explore the individual parts. The project contains **116 measures, 9 tracks and 10 staves**, including guitar and bass tablature and a two-staff keyboard part.
+## Guitar Pro project
 
-| Track | Part |
+[Download the score: source structure · review v1](scores/依存症_全曲_原谱结构_核对v1.gp)
+
+Guitar Pro 8 is recommended.
+
+The project contains **116 measures, 9 tracks and 10 staves**. Guitar and bass parts retain tablature, and the keyboard uses two staves.
+
+| Track | Content |
 | --- | --- |
 | Vo. | Vocal melody |
-| Gt.-I / Gt.-II / Gt.-III | Three independent guitar parts |
+| Gt.-I | First guitar part |
+| Gt.-II | Second guitar part |
+| Gt.-III | Additional guitar part |
 | Kb. | Two-staff keyboard, E.P. / Pf. |
 | Ba. | Bass |
-| Dr.-I / Dr.-II | Main and additional drum parts |
+| Dr.-I | Main drum part |
+| Dr.-II | Additional drum part |
 | Tambourine | Tambourine |
 
-## Source PDF screenshots
+The project retains the source score's Intro, sections A–G, D.S. / Coda navigation, conditional playing instructions and Cut Out marking.
 
-These images are rendered directly from the source PDF. Each image presents two complete pages side by side, preserving their original layout and page boundaries.
+## Source score previews
+
+The source previews are rendered directly from the PDF, with two complete pages side by side and the original layout and page boundaries preserved.
 
 ### PDF pages 2–3
 
-![Source PDF screenshots, pages 2–3](assets/source-pdf-screenshot-pages-02-03.png)
-
 ### PDF pages 4–5
 
-![Source PDF screenshots, pages 4–5](assets/source-pdf-screenshot-pages-04-05.png)
+## Transcription previews
 
-## Guitar Pro score previews
+The transcription previews are generated from the review-v1 project using alphaTab. Each preview page contains eight measures, and each image contains two pages.
 
-These images are rendered from the downloadable review-v1 file using alphaTab. The web preview uses eight measures per page and shortens lengthy review annotations; the notes come from the project itself. Preview page numbers may differ from Guitar Pro's native print pagination. Open the `.gp` file for the complete annotations.
+Preview pagination is independent, and lengthy review annotations are shortened. Page numbers may differ from Guitar Pro's native print pagination. Refer to the `.gp` project for the complete content.
 
-### GP preview pages 1–2 · measures 1–16
+### Preview pages 1–2: measures 1–16
 
-![Guitar Pro score preview, pages 1–2](assets/gp-score-overview-pages-01-02.png)
+### Preview pages 3–4: measures 17–32
 
-### GP preview pages 3–4 · measures 17–32
+## Repository structure
 
-![Guitar Pro score preview, pages 3–4](assets/gp-score-overview-pages-03-04.png)
+| Directory or file | Content |
+| --- | --- |
+| `scores/` | Currently published Guitar Pro project |
+| `assets/` | Source score screenshots and GP score previews |
+| `project/` | Initial transcription data, Python checking scripts, JavaScript exporter and four-measure template |
+| `docs/initial-transcription/` | Initial transcription notes, review checklist and internal validation report |
+| `docs/release-manifest.json` | Release-file provenance, checksums and validation scope |
 
-## Project files and review status
+`project/` records the initial production process. Review v1 is maintained separately and cannot be reproduced directly by rerunning the initial scripts. See the [project documentation](project/README.md) for dependencies and execution instructions.
 
-The full-length score retains the source structure: Intro, sections A–G, D.S. / Coda, conditional playing notes and Cut Out. **Review v1 remains a work in progress**. Bends, grace notes, harmonics, some part alignment and playback details still need checking against the score.
+## Review status
 
-`project/` contains the initial transcription data, Python recording and checking scripts, the JavaScript GP exporter and the confirmed four-measure template. These files document the initial production process; rerunning the initial exporter does not reproduce the separately maintained review-v1 file.
+The current release is **review v1**. A complete review of all notes and performance details has not yet been completed. Remaining areas include:
 
-`docs/initial-transcription/` preserves the initial notes, review checklist and internal validation report for reference. Those historical reports do not certify a completed note-by-note review of v1. File provenance and checksums are listed in the [release manifest](docs/release-manifest.json).
+- Bend amounts, durations and release shapes.
+- Grace notes, harmonics and related performance effects.
+- Entry, ending and alignment of some additional parts with the main parts.
 
-Musician friends are welcome to discuss the score through [Issues](https://github.com/SheenaAsuka/Astra4Transcript/issues), with the measure number and part when reporting a correction. I hope this project becomes a starting point for listening, reading and playing together.
+The initial internal checks primarily verify measure duration, track completeness and consistency before and after export. They do not constitute a note-by-note review. The initial reports do not certify acceptance of review v1.
+
+## Issue reports
+
+Report issues through [Issues](https://github.com/SheenaAsuka/Astra4Transcript/issues). Include the version, source measure number, track name and specific discrepancy. For notation-reading issues, attach a screenshot of the relevant passage if available.

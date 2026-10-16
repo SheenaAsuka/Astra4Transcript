@@ -142,13 +142,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 4182,
-      "sha256": "9157612023df52c3adbd30d2d025a968df7cc8fd3dcc7916337a7f1e3801d7f6"
+      "bytes": 4168,
+      "sha256": "5b8cd8a93c26cd5c6a7731c5bda2ef978a87901240f7f4caa4e1c24797bd5c03"
     },
     {
       "path": "README.md",
-      "bytes": 3752,
-      "sha256": "7f0ae5dc1223984bce9b413bf6f417014a4ec2d335a786ae81b9d488415f844a"
+      "bytes": 3572,
+      "sha256": "77826da4aae6cb9507444a862d42564df1bc00186bedd11979124bd78a9c5003"
     },
     {
       "path": "scores/依存症_全曲_原谱结构_核对v1.gp",

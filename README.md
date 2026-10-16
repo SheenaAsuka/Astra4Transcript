@@ -1,70 +1,93 @@
-# Astra4Transcript · 依存症
+# Astra4Transcript
+
+《依存症》（Izonshou）的 Guitar Pro 总谱转录项目，包含可编辑工程、转录数据与辅助脚本，以及原谱和转录结果的预览图。
 
 [中文](README.md) · [English](README.en.md)
 
-我是椎名林檎的超级粉丝。这个项目把《依存症》的乐队总谱整理成可以分声部阅读、播放和编辑的 Guitar Pro 工程，分享给一起玩音乐的朋友，也希望让更多人听到她的作品。
-
-如果这份展示让你对这首歌产生兴趣，请去听原曲、听完整张专辑，支持椎名林檎的官方作品。
-
-## 原作与致敬
+## 作品信息
 
 | 项目 | 信息 |
 | --- | --- |
-| 歌曲 | **依存症** / *Izonshou — I Am an Addict* |
-| 艺人、作词、作曲 | **椎名林檎 / Sheena Ringo** |
+| 曲名 | 依存症 / Izonshou — I Am an Addict |
+| 艺人 | 椎名林檎 / Sheena Ringo |
+| 作词、作曲 | 椎名林檎 |
 | 原曲编曲 | 亀田誠治、椎名林檎 |
-| 所属专辑 | **《勝訴ストリップ》 / Shōso Strip**，第 13 曲 |
+| 所属专辑 | 《勝訴ストリップ》/ Shōso Strip，第 13 曲 |
 | 专辑发行日期 | 2000 年 3 月 31 日 |
 
-专辑与曲目信息见 [Universal Music 官方专辑页](https://www.universal-music.co.jp/sheena-ringo/products/toct-24321/)，词曲和编曲署名见 [歌ネット作品页](https://www.uta-net.com/song/12963/)。也可以访问 [椎名林檎／东京事变官方网站](https://www.kronekodow.com/)。
+信息来源：[Universal Music 官方专辑页](https://www.universal-music.co.jp/sheena-ringo/products/toct-24321/)、[歌ネット作品署名](https://www.uta-net.com/song/12963/)。
 
-这是出于喜爱而制作的**非官方粉丝转录展示**。原作署名属于上列创作者；转录工程、辅助脚本和此处的介绍均不表示官方认可或授权。
+本项目为非官方转录。原曲及原版乐谱的相关权利归各自权利人所有。
 
-## 打开总谱
+## 视频链接
 
-**[下载《依存症》Guitar Pro 总谱 · 原谱结构 · 核对 v1](scores/依存症_全曲_原谱结构_核对v1.gp)**
+1. [Live（下剋上エクスタシー）版](https://www.bilibili.com/video/BV1CPZpYQESX/)
+2. [MV版](https://www.bilibili.com/video/BV1bA411e71o)
 
-使用 Guitar Pro 8 打开 `.gp` 文件即可查看各声部。工程共 **116 小节、9 条轨道、10 个谱表**，吉他与贝斯带 TAB，键盘保留双谱表。
+## Guitar Pro 工程
 
-| 轨道 | 声部 |
+[下载总谱：原谱结构 · 核对 v1](scores/依存症_全曲_原谱结构_核对v1.gp)
+
+建议使用 Guitar Pro 8 打开。
+
+工程包含 **116 小节、9 条轨道、10 个谱表**。吉他和贝斯保留 TAB，键盘使用双谱表。
+
+| 轨道 | 内容 |
 | --- | --- |
 | Vo. | 主唱旋律 |
-| Gt.-I / Gt.-II / Gt.-III | 三条独立吉他声部 |
+| Gt.-I | 吉他第一声部 |
+| Gt.-II | 吉他第二声部 |
+| Gt.-III | 吉他补充声部 |
 | Kb. | 键盘双谱表，E.P. / Pf. |
 | Ba. | 贝斯 |
-| Dr.-I / Dr.-II | 主鼓与补充鼓声部 |
+| Dr.-I | 主鼓声部 |
+| Dr.-II | 补充鼓声部 |
 | Tambourine | 铃鼓 |
 
-## 原谱 PDF 截图
+工程保留原谱的 Intro、A–G 段落、D.S. / Coda 跳转、条件演奏提示及 Cut Out 标记。
 
-以下图片直接渲染自原 PDF 页面，每张并排显示两页，保留原有排版和完整页边界。
+## 原谱预览
+
+以下图片直接渲染自原谱 PDF，每张并排显示两页，保留完整页边界和原有排版。
 
 ### PDF 第 2–3 页
 
-![依存症原谱 PDF 第 2–3 页截图](assets/source-pdf-screenshot-pages-02-03.png)
 
 ### PDF 第 4–5 页
 
-![依存症原谱 PDF 第 4–5 页截图](assets/source-pdf-screenshot-pages-04-05.png)
 
-## Guitar Pro 总谱预览
+## 转录结果预览
 
-这两张图由上方的“核对 v1”工程通过 alphaTab 渲染。为方便网页展示，采用每页 8 小节的预览分页，并简化了冗长的核对注释；音符来自工程本身。预览页码与 Guitar Pro 原生打印页码可能不同，完整注释请在 `.gp` 中查看。
+以下图片使用 alphaTab 从“核对 v1”工程生成，每页展示 8 小节，每张图包含两页。
 
-### GP 预览第 1–2 页 · 小节 1–16
+预览采用独立分页，并简化了较长的核对注释；页码可能与 Guitar Pro 的原生打印分页不同。完整内容以 `.gp` 工程为准。
 
-![依存症 GP 总谱预览第 1–2 页](assets/gp-score-overview-pages-01-02.png)
+### 预览第 1–2 页：小节 1–16
 
-### GP 预览第 3–4 页 · 小节 17–32
+### 预览第 3–4 页：小节 17–32
 
-![依存症 GP 总谱预览第 3–4 页](assets/gp-score-overview-pages-03-04.png)
+## 仓库结构
 
-## 工程与核对状态
+| 目录或文件 | 内容 |
+| --- | --- |
+| `scores/` | 当前发布的 Guitar Pro 工程 |
+| `assets/` | 原谱截图与 GP 总谱预览 |
+| `project/` | 初版转录数据、Python 检查脚本、JavaScript 导出脚本及四小节模板 |
+| `docs/initial-transcription/` | 初版转录说明、待核对清单与内部检查报告 |
+| `docs/release-manifest.json` | 发布文件来源、校验值及检查范围 |
 
-全曲按原谱结构保留 Intro、A–G、D.S. / Coda、条件演奏提示和 Cut Out。**核对 v1 仍是持续校对中的版本**：推弦、装饰音、泛音、少数声部对齐和播放效果仍需结合谱面复核。
+`project/` 记录初版制作过程。“核对 v1”单独维护，重新运行初版脚本不会直接复现该版本。依赖和运行方式见 [工程说明](project/README.md)。
 
-`project/` 保存初版转录的数据、Python 记录和检查脚本、JavaScript GP 导出脚本，以及已确认的四小节模板。这些脚本记录了初版制作过程；不能把运行脚本生成的初版等同于此处单独保存的“核对 v1”。
+## 核对状态
 
-`docs/initial-transcription/` 是初版说明、待核对清单和当时的内部检查报告，供追溯使用，不作为核对 v1 已完成逐音验收的证明。文件来源与校验值见 [发布清单](docs/release-manifest.json)。
+当前发布版本为 **核对 v1**，尚未完成全部音符和演奏细节的复核。仍需关注的内容包括：
 
-欢迎乐手朋友通过 [Issues](https://github.com/SheenaAsuka/Astra4Transcript/issues) 交流，指出具体小节和声部的问题。最希望这份工程能成为一起听歌、读谱和演奏的起点。
+- 推弦的幅度、持续时间及回落方式。
+- 装饰音、泛音及相关演奏效果。
+- 部分补充声部的进入、结束及与主声部的对齐。
+
+初版内部检查主要验证小节时值、轨道完整性和导出前后的数据一致性，不等同于逐音校对。初版报告不作为核对 v1 已完成验收的依据。
+
+## 问题反馈
+
+可通过 [Issues](https://github.com/SheenaAsuka/Astra4Transcript/issues) 提交问题。请注明版本、原谱小节号、轨道名称及具体差异；涉及谱面辨认时，可附对应位置的截图。
